@@ -1,0 +1,15 @@
+C:\Users\GER-VARZEA PAULISTA\Projeto1\obj\Debug\net6.0\Projeto1.csproj.AssemblyReference.cache
+C:\Users\GER-VARZEA PAULISTA\Projeto1\obj\Debug\net6.0\Projeto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GER-VARZEA PAULISTA\Projeto1\obj\Debug\net6.0\Projeto1.AssemblyInfoInputs.cache
+C:\Users\GER-VARZEA PAULISTA\Projeto1\obj\Debug\net6.0\Projeto1.AssemblyInfo.cs
+C:\Users\GER-VARZEA PAULISTA\Projeto1\obj\Debug\net6.0\Projeto1.csproj.CoreCompileInputs.cache
+C:\Users\GER-VARZEA PAULISTA\Projeto1\bin\Debug\net6.0\Projeto1.exe
+C:\Users\GER-VARZEA PAULISTA\Projeto1\bin\Debug\net6.0\Projeto1.deps.json
+C:\Users\GER-VARZEA PAULISTA\Projeto1\bin\Debug\net6.0\Projeto1.runtimeconfig.json
+C:\Users\GER-VARZEA PAULISTA\Projeto1\bin\Debug\net6.0\Projeto1.dll
+C:\Users\GER-VARZEA PAULISTA\Projeto1\bin\Debug\net6.0\Projeto1.pdb
+C:\Users\GER-VARZEA PAULISTA\Projeto1\obj\Debug\net6.0\Projeto1.dll
+C:\Users\GER-VARZEA PAULISTA\Projeto1\obj\Debug\net6.0\refint\Projeto1.dll
+C:\Users\GER-VARZEA PAULISTA\Projeto1\obj\Debug\net6.0\Projeto1.pdb
+C:\Users\GER-VARZEA PAULISTA\Projeto1\obj\Debug\net6.0\Projeto1.genruntimeconfig.cache
+C:\Users\GER-VARZEA PAULISTA\Projeto1\obj\Debug\net6.0\ref\Projeto1.dll
